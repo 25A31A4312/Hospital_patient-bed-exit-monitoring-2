@@ -1,0 +1,6 @@
+{
+  "name": "T226 Hospital Patient Bed-Exit & Wandering Monitor",
+  "description": "Clinical AI vision monitoring system with real CCTV feed, non-intrusive pose estimation, bed-exit warning, and wandering detection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
